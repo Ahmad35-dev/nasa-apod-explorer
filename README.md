@@ -57,3 +57,8 @@ API Key | Environment variable
 ### Start Backend
 ```bash
 mvn spring-boot:run
+
+## 👨‍💻 Author
+**Ahmad Ali**  
+Email: ahmadalidudekula35@gmail.com  
+Phone: 6304417514
